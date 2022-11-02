@@ -1,0 +1,15 @@
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\bin\Debug\FNAFİNANSBANK.exe.config
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\bin\Debug\FNAFİNANSBANK.exe
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\bin\Debug\FNAFİNANSBANK.pdb
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.csproj.AssemblyReference.cache
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.csproj.SuggestedBindingRedirects.cache
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.Form4.resources
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.Home.resources
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.BireyselKayıt.resources
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.KurumsalKayıt.resources
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.BireyselHesapAnaEkran.resources
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.Properties.Resources.resources
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.csproj.GenerateResource.cache
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.csproj.CoreCompileInputs.cache
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.exe
+C:\Users\biris\OneDrive\Masaüstü\FNAv1\FNAFİNANSBANK\obj\Debug\FNAFİNANSBANK.pdb
